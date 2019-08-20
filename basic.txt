@@ -1,3 +1,6 @@
 Hello
 Good Morning 
 How are you
+How old are you?
+Tell me your weight.
+Tell me your Height
